@@ -75,5 +75,7 @@ else:
 ```
 
 ### Output:
+![328026685-cc73708a-4cd2-471d-b9cb-18234bf8dc7a](https://github.com/user-attachments/assets/6ebb8cd0-5fd9-4ae8-9270-1aa970e74da8)
 
 ### Result:
+Thus, Web Scraping On e-commerce platform using BeautifulSoup is executed successfully.
